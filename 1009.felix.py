@@ -1,0 +1,5 @@
+a = str(input())
+b = float(input())
+c = float(input())
+p = (15/100)
+print(f"TOTAL = R$ {(b + (c * p)):.2f}")
